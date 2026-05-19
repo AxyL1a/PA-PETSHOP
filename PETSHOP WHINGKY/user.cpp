@@ -4,7 +4,7 @@
 //              proses pembelian, struk, dan riwayat
 
 #include "toko.h"
-#include <fstream>  //tambahan buat nulis file HTML (ofstream)
+#include <fstream>  // Tambahan buat nulis file HTML (ofstream)
 
 
 //  FITUR: Generate file HTML berisi QR Code lalu buka di browser
